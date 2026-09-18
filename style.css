@@ -30,8 +30,8 @@ nav ul {
 }
 
 nav li {
-  display: inline-block;
-  margin: 5px 10px;
+  display: block;
+  margin: 10px;
 }
 
 nav a {
